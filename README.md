@@ -35,4 +35,4 @@ Contribuições são bem-vindas. Sinta-se à vontade para fazer um fork do repos
 
 ---
 
-© [2024] [Nome da Sua Empresa ou Projeto]
+© [2024] Sesi Senai Itapeva
